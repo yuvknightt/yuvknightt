@@ -1,7 +1,7 @@
-[![MasterHead]([![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io))]
+
 <h1 align="center">Hi 👋, I'm Yuvraj Singh</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.pinterest.com/pin/126663808259167697/" >
+<img align="right" alt="coding" width="400" src="https://as2.ftcdn.net/v2/jpg/05/69/11/17/1000_F_569111773_vf4bnJAItFo7tZ0ce2pQ0txYQnQteTHH.jpg" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvknightt&label=Profile%20views&color=0e75b6&style=flat" alt="yuvknightt" /> </p>
 
