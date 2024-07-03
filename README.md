@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvknightt&label=Profile%20views&color=0e75b6&style=flat" alt="yuvknightt" /> </p>
 
-- 🔭 I’m currently working on **GEN-AL QR GENERATOR**
+- 🔭 I’m currently working on **GEN-AI QR GENERATOR**
 
 - 📫 How to reach me **ys2554374@gmail.com**
 
